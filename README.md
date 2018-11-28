@@ -33,7 +33,7 @@ This is event driven page.
 On click of buttons/ search categories from the side bar, 9 giphies are pulled from api.giphy.com with pg-13 or below rating and in english language.
 By default, still images are loaded. User may click on the image to review the animation.
 on each click on gif file, it changes the mode to still or animation.
-Title, rating and trending date (formatted using moment.js) are also displyed along with the gif.
+Title, rating and trending date (formatted using moment.js) are also displayed along with the gif.
 
 	
 ### Run Instructions:

@@ -25,7 +25,7 @@ This is assignment 6: https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNCHI
 ### Notes & Limitations:
 --------------------
 image/giphy formatting overflow needs to be taken care of! A separate class could have been written to format giphies.
-No error checking om input search text box for content.
+Data Validations and formatting can be added before displaying the gifs on the page.
 
 ### Logic:
 -------

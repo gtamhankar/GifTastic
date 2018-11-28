@@ -1,5 +1,5 @@
 # Giftastic! giphy! 
-Assignment 6 -  Use of GIPHY API to make a dynamic web page that populates with gifs of user's choice. 
+Assignment 6 -  Use of GIPHY API to make a dynamic web page that populates gifs of user's choice. 
 
 Submitted On: 11/28/2018
 
